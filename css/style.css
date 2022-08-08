@@ -32,9 +32,7 @@
       .diamond li:nth-child(1) {
         height: 30px;
         width: 30px;
-        background-color: #ebb42e;
-        
-        border-color: hsl(41deg 88% 61%);
+        background-color: #3ea9f0;
         left: 0;
         right: 0;
         margin: auto;
@@ -44,8 +42,7 @@
       .diamond li:nth-child(2) {
         height: 30px;
         width: 30px;
-        background-color: #ebb42e;
-        
+        background-color: #f07739;
         animation: traingle4 200ms 1.6s ease, opacity 2s 2.6s ease infinite;
         animation-fill-mode: forwards;
       }
@@ -53,16 +50,13 @@
         height: 30px;
         width: 30px;
         background-color: #ebb42e;
-        
         animation: traingle5 200ms 1.4s ease, opacity 2s 2.6s ease infinite;
         animation-fill-mode: forwards;
       }
       .diamond li:nth-child(4) {
         height: 30px;
         width: 30px;
-        background-color: #ebb42e;
-        
-        border-color: hsl(41deg 88% 61%);
+        background-color: #82bd33;
         left: 0;
         right: 0;
         margin: auto;
