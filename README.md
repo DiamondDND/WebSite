@@ -3,6 +3,8 @@
 </p>
 <p align="center">Diamond DND</p>
 
+**We have 4 Diamond:**
+
 >The **blue** Diamond represents the [Diamond community](https://diamonddnd.com/).
 
 >The **orange** Diamond represents the manufacturer [iron](https://iron.finance/).
