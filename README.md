@@ -5,13 +5,13 @@
 
 **We have 4 Diamond:**
 
-> **blue** Diamond represents the [Diamond community](https://diamonddnd.com/).
+> **Blue** Diamond represents the [Diamond community](https://diamonddnd.com/).
 
-> **orange** Diamond represents the manufacturer [iron](https://iron.finance/).
+> **Orange** Diamond represents the manufacturer [iron](https://iron.finance/).
 
-> **yellow** Diamond represents the [network BEP20](https://www.bnbchain.org/).
+> **Yellow** Diamond represents the [network BEP20](https://www.bnbchain.org/).
 
-> **green** Diamond represents the unknown founder.<br>
+> **Green** Diamond represents the unknown founder.<br>
 
 
 
